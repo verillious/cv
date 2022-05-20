@@ -1,6 +1,6 @@
 # William Christian
 
-_🐍 Python Software Engineer_
+_🐍 Python Developer_
 
 [Email](mailto:wsachristian@outlook.com) / [LinkedIn](https://www.linkedin.com/in/wsachristian/)
 
