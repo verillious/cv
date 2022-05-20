@@ -15,7 +15,7 @@ Pioneering software for creative industries
     - Node graph updates for Mari
       - Highly requested feature that reduced the need for the third party extension packs
       - features for de-cluttering and re-organising complex node graph layouts
-    - Created Cross-product build distribution system reducing QA downtime which was then integrated into our CI
+    - Created cross-product build distribution system reducing QA downtime which was then integrated into our CI
     - Replaced in-house testing suite with system that runs pytest inside our apps
     - Replaced existing release-note and customer-communication generation scripts
       - From ~2000 lines of code to ~500 with the same functionality 😎
