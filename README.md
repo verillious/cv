@@ -36,6 +36,8 @@ C++
     - PC Gamer’s Best Free Games of the Week 09/07/2017
     - NCCA Best Interactive Artefact Award (joint) 2017
   - Working on more video games with a focus on simulation and [Emergent gameplay](https://en.wikipedia.org/wiki/Emergent_gameplay) developed in [Godot](https://godotengine.org/)
+  - [🍪 cookiecutter-python](https://github.com/verillious/cookiecutter-python)
+    - A Cookiecutter template for python packages
 
 ## 👨‍🎓 Education
 
