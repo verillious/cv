@@ -6,7 +6,12 @@ _🐍 Python Developer_
 
 ## 👨‍💻 Experience
 
-**Software Engineer** @ [Foundry](https://www.foundry.com/) _(2018 - Present)_<br>
+**Senior Developer** @ [Oval](https://ovalmoney.com/en/) _(2022 - Present)_<br>
+Good habits pay off
+  - 💡 Developing back-end components to improve responsiveness and performance
+  - **_Technologies used:_** Python, Celery, PostgreSQL, JavaScript, HTML5
+
+**Software Engineer** @ [Foundry](https://www.foundry.com/) _(2018 - 2022)_<br>
 Pioneering software for creative industries
   - 🔧 Built product features in Python and C++
   - 🐛 Many, many bug fixes
