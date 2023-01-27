@@ -9,7 +9,15 @@ _🐍 Python Developer_
 **Senior Developer** @ [Oval](https://ovalmoney.com/en/) _(2022 - Present)_<br>
 Good habits pay off
   - 💡 Developing back-end components to improve responsiveness and performance
-  - **_Technologies used:_** Python, Celery, PostgreSQL, JavaScript, HTML5
+  - 💪 Worked in a small, cross-functional team creating new features and troubleshooting customer support tickets
+  - ✨ Some recent highlights:
+    - Successfully developed and launched crypto trading and re-launched customer onboarding
+      -  ~3000 Users onboarded in the first month with ~1000 of them having an open crypto position
+    - Updated marketing events system to a 'milestones' system using Rudderstack and Braze
+      - Allowed finer grained analysis of users and the use of Metabase for marketing purposes
+      - Laid the groundwork for a "year in review" system inspired by Spotify
+    - Transitioned from ETF to CFD trading system, building new backend components to support these new assets
+  - **_Technologies used:_** Python, Celery, PostgreSQL, SQLAlchemy, Alembic, Kubernates, Docker, Redis, Pyramid
 
 **Software Engineer** @ [Foundry](https://www.foundry.com/) _(2018 - 2022)_<br>
 Pioneering software for creative industries
@@ -36,13 +44,20 @@ Pioneering software for creative industries
 <br><br>
 
 ## 📌 On The Side
-  - [katabasis](https://shadowmonk.itch.io/katabasis) video game developed in UE4, Blueprint and
-C++
-    - PC Gamer’s Best Free Games of the Week 09/07/2017
-    - NCCA Best Interactive Artefact Award (joint) 2017
-  - Working on more video games with a focus on simulation and [Emergent gameplay](https://en.wikipedia.org/wiki/Emergent_gameplay) developed in [Godot](https://godotengine.org/)
   - [🍪 cookiecutter-python](https://github.com/verillious/cookiecutter-python)
     - A Cookiecutter template for python packages
+  - [daub](https://github.com/verillious/daub)
+    - opinionated markdown to pdf renderer
+  - [godot-datetime](https://github.com/verillious/godot-datetime)
+    - DateTime libarary for [Godot](https://godotengine.org/)
+  - [godot-number-to-words](https://github.com/verillious/godot-number-to-words)
+    - Convert numbers to words in [Godot](https://godotengine.org/)
+  - [katabasis](https://shadowmonk.itch.io/katabasis)
+    - Game developed in UE4, Blueprint and C++
+    - PC Gamer’s Best Free Games of the Week 09/07/2017
+    - NCCA Best Interactive Artefact Award (joint) 2017
+  - Working on more games with a focus on simulation and [emergent gameplay](https://en.wikipedia.org/wiki/Emergent_gameplay) developed in [Godot](https://godotengine.org/)
+
 
 ## 👨‍🎓 Education
 
