@@ -8,7 +8,7 @@ _🐍 Python Developer_
 
 **Senior Developer** @ [Oval](https://ovalmoney.com/en/) _(2022 - Present)_<br>
 Good habits pay off
-  - 💡 Developing back-end components to improve responsiveness and performance
+  - 💡 Developing back-end components for a wealth-tech mobile app
   - 💪 Worked in a small, cross-functional team creating new features and troubleshooting customer support tickets
   - ✨ Some recent highlights:
     - Successfully developed and launched crypto trading and re-launched customer onboarding
