@@ -17,7 +17,7 @@ Good habits pay off
       - Allowed finer grained analysis of users and the use of Metabase for marketing purposes
       - Laid the groundwork for a "year in review" system inspired by Spotify
     - Transitioned from ETF to CFD trading system, building new backend components to support these new assets
-  - **_Technologies used:_** Python, Celery, PostgreSQL, SQLAlchemy, Alembic, Kubernetes, Docker, Redis, Pyramid, AWS
+  - **_Technologies used:_** Python, Celery, PostgreSQL, MongoDB, SQLAlchemy, Alembic, Kubernetes, Docker, Redis, Pyramid, AWS
 
 **Software Engineer** @ [Foundry](https://www.foundry.com/) _(2018 - 2022)_<br>
 Pioneering software for creative industries
